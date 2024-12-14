@@ -1,4 +1,4 @@
-package com.example.bhumii
+package com.bhumii.app
 
 import io.flutter.embedding.android.FlutterActivity
 

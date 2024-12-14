@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "611308201833",
+    "project_id": "bhumii",
+    "storage_bucket": "bhumii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611308201833:android:b5fd107e00ee0faea73ff8",
+        "android_client_info": {
+          "package_name": "com.bhumii.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "google-services.json",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhumii.app",
+            "certificate_hash": "a7c44d4d97fbf24db04accc703fbd3f98d9115e9"
+          }
+        },
+        {
+          "client_id": "611308201833-khs88t0ondbdnoc230i6omoh6qcirplc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhumii.app",
+            "certificate_hash": "710aba4af85587805b2bad38da484e59230dc314"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1K6LUEKSoHco6V2Q_kosyiTurNQS1ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611308201833-v4hg5tsq4u1nee4mdrgjkpq96f15smeo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611308201833-2jc47ssce0abvsq7rual9l9iavh0slhb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bhumii"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
